@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "bartserv",
+    "packageName": "com.bart.bartserv",
+    "packageFolder": "com/bart/bartserv",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "MGIwOTAyMTVjZGI1OWIyYTVkZDQyMjdiMzQ3MjUwN2E1ZjU5Y2FhYzIyOTY2ZTZiN2FhMzFlZjk2NWMwYjlkNTJhYmMxMTYzMTEyNmYwYTU3ZWU3M2Y5Zjk4MDNjNTc3NDEwOGI4MzIwNGQ5NTdmOWJmNWU5MGYwZDlkYWYzMDQ=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "mmonitz",
+  "repository-name": "bart"
+}
